@@ -1,0 +1,131 @@
+## 🚀 **Escopo do Curso: "RAG - Construindo Sistemas Inteligentes que Sabem Tudo"**
+
+### **Módulo 1: Introdução ao RAG - O Superpoder da IA**
+- **Aula 1.1**: "O que é RAG e por que é tipo ter um Google na cabeça da IA?"
+  - Analogia: RAG como um "estudante que consulta livros antes de responder"
+  - Por que RAG é tipo ter um "assistente que nunca mente" (só responde baseado em documentos)
+  - Exemplos reais: ChatGPT vs RAG (quando cada um é melhor)
+
+- **Aula 1.2**: "Setup do Ambiente - Preparando o Terreno"
+  - Instalação e configuração (sem complicação)
+  - Primeiro "Hello World" com RAG
+  - Analogia: Como montar uma biblioteca digital
+
+### **Módulo 2: Fundamentos de Embeddings - A Linguagem dos Computadores**
+- **Aula 2.1**: "Embeddings Básicos - Como Transformar Texto em Números"
+  - Analogia: Como transformar palavras em "coordenadas" no espaço
+  - Modelos de embeddings (como escolher o melhor)
+  - Exemplos práticos: similaridade entre textos
+
+- **Aula 2.2**: "Embeddings Avançados - Otimizando a Qualidade"
+  - Analogia: Como um tradutor experiente que entende nuances
+  - Fine-tuning de embeddings
+  - Exemplo: Embeddings específicos para domínios
+
+### **Módulo 3: Vector Stores - A Memória Inteligente**
+- **Aula 3.1**: "Vector Stores Básicos - Onde Guardar as Informações"
+  - Analogia: Biblioteca organizada por temas (não por ordem alfabética)
+  - Chroma, FAISS, Pinecone
+  - Exemplo prático: Sistema de busca de documentos
+
+- **Aula 3.2**: "Vector Stores Avançados - Otimizando Performance"
+  - Analogia: Como organizar uma biblioteca gigante
+  - Indexação, sharding, caching
+  - Exemplo: Sistema de busca em milhões de documentos
+
+### **Módulo 4: Document Loaders - Carregando Tudo que Existe**
+- **Aula 4.1**: "Loaders Básicos - De PDF a Website"
+  - Analogia: Como um "garçom universal" que lê qualquer tipo de menu
+  - PDF, TXT, DOCX, CSV
+  - Exemplo: Análise de documentos da empresa
+
+- **Aula 4.2**: "Loaders Avançados - YouTube, APIs, Bancos de Dados"
+  - Analogia: Como um "detetive digital" que encontra informação em qualquer lugar
+  - YouTube, APIs, SQL, NoSQL
+  - Exemplo: Sistema que aprende com vídeos e dados
+
+### **Módulo 5: Text Splitting - Quebrando Textos Inteligentemente**
+- **Aula 5.1**: "Splitting Básico - Como Dividir Documentos"
+  - Analogia: Como cortar um bolo em pedaços que fazem sentido
+  - RecursiveCharacterTextSplitter, TokenTextSplitter
+  - Exemplo: Processamento de livros longos
+
+- **Aula 5.2**: "Splitting Avançado - Preservando Contexto"
+  - Analogia: Como cortar um filme em cenas que contam uma história
+  - Overlap, separadores inteligentes
+  - Exemplo: Análise de contratos legais
+
+### **Módulo 6: Retrieval - Encontrando as Informações Certas**
+- **Aula 6.1**: "Retrieval Básico - Busca por Similaridade"
+  - Analogia: Como encontrar roupas similares em uma loja
+  - Similarity search, k-NN
+  - Exemplo: Sistema de recomendação de documentos
+
+- **Aula 6.2**: "Retrieval Avançado - Múltiplas Estratégias"
+  - Analogia: Como um detetive que usa várias pistas para resolver um caso
+  - Multi-query retrieval, re-ranking
+  - Exemplo: Sistema de pesquisa acadêmica
+
+### **Módulo 7: RAG Completo - Montando o Sistema**
+- **Aula 7.1**: "RAG Básico - O Fluxo Completo"
+  - Analogia: Como um "chef de cozinha" que junta ingredientes para criar um prato
+  - Document loading → Splitting → Embedding → Storage → Retrieval → Generation
+  - Exemplo: Chatbot com base de conhecimento
+
+- **Aula 7.2**: "RAG Avançado - Otimizando Respostas"
+  - Analogia: Como um "jornalista experiente" que sabe filtrar informações
+  - Prompt engineering para RAG, context window management
+  - Exemplo: Sistema de suporte técnico inteligente
+
+### **Módulo 8: Projetos Práticos**
+- **Aula 8.1**: "Projeto 1: Chatbot para Documentação Técnica"
+  - Sistema que responde perguntas sobre manuais
+  - Integração com múltiplos formatos de documento
+  - Interface web com Streamlit
+
+- **Aula 8.2**: "Projeto 2: Assistente de Pesquisa Acadêmica"
+  - Análise de papers científicos
+  - Geração de resumos e insights
+  - Sistema de perguntas e respostas sobre pesquisas
+
+### **Módulo 9: Deploy e Produção**
+- **Aula 9.1**: "Deploy Básico - Colocando na Rua"
+  - Analogia: Abrir um "restaurante de IA" (preparação, teste, inauguração)
+  - Streamlit, Gradio, FastAPI
+  - Exemplo: Deploy de um sistema RAG
+
+- **Aula 9.2**: "Monitoramento e Otimização"
+  - Analogia: Manter um "sistema de saúde" funcionando bem
+  - Logs, métricas, custos, performance
+  - Boas práticas de produção
+
+### **Módulo 10: Tópicos Avançados**
+- **Aula 10.1**: "RAG com Múltiplas Fontes - O Poder da Integração"
+  - Analogia: Como um "consultor experiente" que consulta várias fontes
+  - Multi-modal RAG (texto + imagem), RAG com APIs
+  - Exemplo: Sistema que analisa relatórios + dados em tempo real
+
+- **Aula 10.2**: "RAG Avançado - Fine-tuning e Otimizações"
+  - Analogia: Como "afinar um instrumento" para tocar melhor
+  - Fine-tuning de modelos para RAG, otimizações de performance
+  - Exemplo: Sistema RAG personalizado para domínio específico
+
+---
+
+## 🎯 **Características do Curso:**
+
+1. **Progressão Natural**: Do básico ao avançado, sem pular etapas
+2. **Projetos Práticos**: Cada módulo tem exemplos reais e funcionais
+3. **Analogias do Dia a Dia**: Relacionando conceitos técnicos com situações conhecidas
+4. **Código Limpo**: Exemplos que funcionam de verdade
+5. **Foco em Resultados**: Aluno sai sabendo construir sistemas RAG completos
+6. **100% Gratuito**: Usando Hugging Face e opções gratuitas
+7. **Otimizado para Colab**: Setup automático e funcionando
+
+---
+
+## 🚀 **Diferencial do Curso:**
+- Foca especificamente em RAG (diferente do curso Langchain que tem RAG como um módulo)
+- Projetos práticos mais complexos e realistas
+- Mais profundidade em cada componente do RAG
+- Exemplos de casos de uso reais do mercado 
